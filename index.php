@@ -7,7 +7,7 @@
             crossorigin="anonymous"></script>
     <link href="./style/style.css" rel="stylesheet" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta name="description" content="Die Startseite von The Flame" />
+    <meta name="description" content="Die Startseite von The Flames" />
 
 </head>
 
